@@ -11,6 +11,13 @@
   color: #333;
 }
 
+body {
+  background-image: url('./TELA_TABLET_QUIZ.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
 h1,
 h2,
 h3,
