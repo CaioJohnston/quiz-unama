@@ -16,7 +16,7 @@
 
 .choice-prefix {
   padding: 1.5rem 2.5rem;
-  background-color: #28a745;
+  background-color: #07763f;
   color: white;
 }
 
@@ -26,7 +26,7 @@
 }
 
 .correct {
-  background-color: #28a745;
+  background-color: #07763f;
 }
 
 .incorrect {
@@ -54,7 +54,7 @@
 
 #progressBarFull {
   height: 2rem;
-  background-color: #28a745;
+  background-color: #07763f;
   border: none;
   border-radius: 100rem;
   transition: width 0.4s ease;
@@ -64,7 +64,7 @@
 #loader {
   border: 1.6rem solid white;
   border-radius: 50%;
-  border-top: 1.6rem solid #28a745;
+  border-top: 1.6rem solid #07763f;
   width: 12rem;
   height: 12rem;
   animation: spin 2s linear infinite;
