@@ -27,7 +27,7 @@ h4 {
 
 h1 {
   font-size: 10rem;
-  color: #28a745;
+  color: #07763f;
   margin-bottom: 5rem;
 }
 
@@ -89,10 +89,10 @@ h3 {
   max-width: 40rem;
   width: 100%;
   text-align: center;
-  border: 0.1rem solid #28a745;
+  border: 0.1rem solid #07763f;
   margin-bottom: 1rem;
   text-decoration: none;
-  color: #28a745;
+  color: #07763f;
   background-color: white;
 }
 
@@ -135,13 +135,13 @@ input::placeholder {
   width: 100%;
   max-width: 100%;
   height: 4rem;
-  border: 0.3rem solid #28a745;
+  border: 0.3rem solid #07763f;
   margin-top: 1.5rem;
 }
 
 #progressBarFull {
   height: 3.4rem;
-  background-color: #28a745;
+  background-color: #07763f;
   width: 0%;
 }
 
